@@ -5,7 +5,7 @@ using namespace std;
 
 struct Point
 {
-    // üye değişkenler
+    // Member variables
     int x;
     int y;
 };
